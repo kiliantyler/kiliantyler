@@ -2,9 +2,6 @@
 
 ![Kilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiliantyler&show_icons=true&theme=github_dark)
 
-
-[![mac-setup](https://github-readme-stats.vercel.app/api/pin/?username=kiliantyler&repo=mac-setup&theme=github_dark)](https://github.com/kiliantyler/mac-setup)
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=kiliantyler&repo=dotfiles&theme=github_dark)](https://github.com/kiliantyler/dotfiles)
 <!--
 **kiliantyler/kiliantyler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
