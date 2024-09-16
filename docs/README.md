@@ -37,7 +37,15 @@
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=apple" height="31" alt="apple logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="31" alt="ubuntu logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=linux" height="31" alt="linux logo"  />
+  <img width="9" />
   <img src="https://skillicons.dev/icons?i=vscode" height="31" alt="vscode logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="31" alt="obsidian logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="31" alt="kubernetes logo"  />
   <img width="9" />
@@ -59,11 +67,15 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=py" height="31" alt="python logo"  />
   <img width="9" />
+  <img src="https://skillicons.dev/icons?i=bun" height="31" alt="bun logo"  />
+  <img width="9" />
   <img src="https://skillicons.dev/icons?i=react" height="31" alt="react logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="31" alt="tailwindcss logo"  />
   <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="31" alt="terraform logo"  />
+  <img src="https://skillicons.dev/icons?i=astro" height="31" alt="astro logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="31" alt="terraform logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=ansible" height="31" alt="ansible logo"  />
   <img width="9" />
@@ -76,6 +88,8 @@
   <img src="https://skillicons.dev/icons?i=figma" height="31" alt="figma logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="31" alt="githubactions logo"  />
+  <img width="9" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="31" alt="jenkins logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=grafana" height="31" alt="grafana logo"  />
   <img width="9" />
@@ -99,7 +113,8 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/kiliantyler/kiliantyler/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kiliantyler/kiliantyler/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
