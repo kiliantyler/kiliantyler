@@ -231,20 +231,3 @@ I’m a Senior Site Reliability Engineer.
 </div>
 
 ###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiliantyler&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="190" alt="stats graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiliantyler&hide_border=true&hide_title=true&area=true&theme=dracula" height="292" alt="activity-graph graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kiliantyler/kiliantyler/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
