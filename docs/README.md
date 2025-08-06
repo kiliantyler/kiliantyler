@@ -12,31 +12,54 @@
 
 ###
 
-<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 200px; margin: 0 auto;">
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: px; max-width: 110px; margin: 0 auto;">
   <a href="https://www.linkedin.com/in/kilian-tyler/" target="_blank">
     <img src="https://skills.syvixor.com/api/icons?i=linkedin" alt="linkedin" title="LinkedIn" /></a>
-  <a href="mailto:github@ktyler.me" target="_blank">
-    <img src="https://skills.syvixor.com/api/icons?i=gmail" alt="gmail" title="Gmail" /></a>
-  <a href="https://dev.to/kiliantyler" target="_blank">
-    <img src="https://skills.syvixor.com/api/icons?i=devto" alt="devto" title="Dev.to" /></a>
+  <a href="mailto:kilian@kil.dev" target="_blank">
+    <img src="https://skills.syvixor.com/api/icons?i=gmail" alt="gmail" title="Email" /></a>
 </div>
 
 ###
 
-<h1 align="center"></h1>
+<h1 align="center">👋 Hello, I'm Kilian Tyler</h1>
 
 ###
 
-<p align="left">
-I'm Kilian Tyler from Cleveland, Ohio.
-<br />
-<br />
-I’m a Senior Site Reliability Engineer.
-</p>
+<div align="center">
+  <p>
+    <strong>📍 Based in Cleveland, Ohio</strong> | 
+    <strong>🔧 Senior Site Reliability Engineer</strong> | 
+    <strong>🚀 DevOps & Cloud Native Specialist</strong>
+  </p>
+</div>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<div align="left">
+  
+  <p>
+    <strong>About me:</strong> As a Senior Site Reliability Engineer, I work across the entire technology stack, 
+    touching pretty much every technology and language at least a little bit.
+  </p>
+  
+  <p>
+    <strong>What I do:</strong> Design and implement infrastructure as code, optimize deployment pipelines, 
+    monitor system performance, and ensure high availability across cloud environments.
+  </p>
+  
+  <p>
+    <strong>Currently exploring:</strong> Web development with React and modern frontend technologies.
+  </p>
+  
+  <p>
+    <strong>When I'm not coding:</strong> You'll find me exploring new technologies, contributing to open source, 
+    or spending time with my pets.
+  </p>
+</div>
+
+###
+
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
